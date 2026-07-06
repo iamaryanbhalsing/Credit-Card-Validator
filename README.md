@@ -26,7 +26,7 @@ A simple Python script to validate credit card numbers using the **Luhn algorith
 
 ---
 
-## Workflow & How It Works
+## ⏳Workflow & How It Works
 ```
 The Luhn algorithm is a checksum formula used to validate identification numbers like credit cards. Here's the step-by-step process implemented:
 
@@ -61,7 +61,7 @@ Unknown: For other valid formats.
 Returns a clear message: "Valid [Type] credit card number." or "Invalid credit card number."
 ```
 
-## Limitations
+## ⚠️Limitations
 
 This tool validates format only — it does not check if the card is active, has sufficient funds, or is legitimate.
 
@@ -69,7 +69,7 @@ For real payment processing, always use official merchant APIs and comply with P
 
 ---
 
-## Contributing
+## 🤝Contributing
 Feel free to fork and enhance! Ideas: Add more issuers, support for CVV/expiry validation, or a web interface.
 
 ---
