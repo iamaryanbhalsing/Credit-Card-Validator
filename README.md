@@ -14,7 +14,7 @@ A simple Python script to validate credit card numbers using the **Luhn algorith
 
 ---
 
-## How to Use
+## 🙋‍♂️How to Use❔
 
 1. Clone or download the repository.
 2. Run the script:
