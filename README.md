@@ -4,7 +4,7 @@ A simple Python script to validate credit card numbers using the **Luhn algorith
 
 ---
 
-## Features
+## ♾️Features
 - Validates credit card numbers using the Luhn (Mod-10) checksum algorithm.
 - Supports card lengths from 13 to 19 digits.
 - Automatically removes spaces, dashes, or other non-digit characters.
